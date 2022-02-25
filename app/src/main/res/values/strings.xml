@@ -7,11 +7,9 @@
     <string name="name">Name:</string>
     <string name="position">Position:</string>
     <string name="next_activity">NEXT ACTIVITY</string>
-    <string name="attractor">Attractor</string>
-    <string name="android">Android-developer</string>
     <string name="nicemett">Данные подгрузились!Приятно познакомиться!</string>
     <string name="surname">Eshimkanov</string>
     <string name="high">High school</string>
     <string name="myname">Erjan</string>
-    <string name="photo">https://rickandmortyapi.com/api/character/avatar/490.jpeg</string>
+    <string name="photo">https://rickandmortyapi.com/api/character/avatar/609.jpeg</string>
 </resources>
