@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="top">5dp</dimen>
+    <dimen name="middle_size">24sp</dimen>
+    <dimen name="heavy">32dp</dimen>
+    <dimen name="size_image">120dp</dimen>
+    <dimen name="indent">11dp</dimen>
+    <dimen name="radius">8dp</dimen>
+</resources>

@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Test Attractor</string>
+    <string name="first_name">First name:</string>
+    <string name="second_name">Second name:</string>
+    <string name="education">Education:</string>
+    <string name="company">Company</string>
+    <string name="name">Name:</string>
+    <string name="position">Position:</string>
+    <string name="next_activity">NEXT ACTIVITY</string>
+    <string name="attractor">Attractor</string>
+    <string name="android">Android-developer</string>
+    <string name="nicemett">Данные подгрузились!Приятно познакомиться!</string>
+    <string name="surname">Eshimkanov</string>
+    <string name="high">High school</string>
+    <string name="myname">Erjan</string>
+    <string name="photo">https://rickandmortyapi.com/api/character/avatar/490.jpeg</string>
+</resources>
